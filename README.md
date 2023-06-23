@@ -8,9 +8,9 @@ There’s a page included with the app that explains the variables and guideline
 
 Any Power Automate Flows are also included.
 
-[![Watch the video on the app working](https://www.youtube.com/watch?v=wquS3qaPdnM)](https://youtu.be/wquS3qaPdnM)
+[![Watch the video on the app working](appPicture.png)](https://youtu.be/wquS3qaPdnM)
 
-![Adaptive Card Template](adaptivecard.png)
+![Adaptive Card Template](adaptiveCard.png)
 
 ## Deployment Instructions
 1.  Download the Planner Controller App Zip file
