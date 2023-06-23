@@ -10,7 +10,7 @@ Any Power Automate Flows are also included.
 
 [![Watch the video on the app working](appPicture.png)](https://youtu.be/wquS3qaPdnM)
 
-![Adaptive Card Template](adaptiveCard.png)
+![Adaptive Card Template](adaptive-card-reminder.png)
 
 ## Deployment Instructions
 1.  Download the Planner Controller App Zip file
